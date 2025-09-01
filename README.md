@@ -56,7 +56,10 @@ python main.py
 
 ## 📸 Preview
 
-*(You can add a screenshot or GIF of gameplay here)*  
+![Game Preview](images/image2.png)
+---
+![Game Preview](images/image1.png)
+
 
 ---
 

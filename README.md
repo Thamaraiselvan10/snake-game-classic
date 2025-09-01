@@ -28,7 +28,7 @@ A fun and nostalgic **Snake Game** built with Python’s `turtle` library. Guide
 
 ### 1️⃣ Clone the repository  
 ```
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/Thamaraiselvan10/snake-game-classic.git
 cd snake-game
 ```
 ### 2️⃣ Run the game

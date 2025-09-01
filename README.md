@@ -21,3 +21,56 @@ A fun and nostalgic **Snake Game** built with Python’s `turtle` library. Guide
 │── food.py # Food utilities & spawning system
 │── score_board.py # Score management & display
 ```
+
+---
+
+## 🚀 Getting Started  
+
+### 1️⃣ Clone the repository  
+```
+git clone https://github.com/your-username/snake-game.git
+cd snake-game
+```
+### 2️⃣ Run the game
+
+Make sure you have Python 3.x installed. Then run:
+```
+python main.py
+
+```
+## 🎮 Controls
+
+- ⬆️ **Up Arrow** – Move Up  
+- ⬇️ **Down Arrow** – Move Down  
+- ⬅️ **Left Arrow** – Move Left  
+- ➡️ **Right Arrow** – Move Right  
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**  
+- **turtle** (standard library)  
+
+---
+
+## 📸 Preview
+
+*(You can add a screenshot or GIF of gameplay here)*  
+
+---
+
+## 💡 Future Improvements
+
+- Add difficulty levels  
+- Implement sound effects  
+- Add pause/restart functionality  
+- Multiplayer snake mode  
+
+---
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to fork this repo and submit a pull request.  
+

@@ -47,6 +47,7 @@ python main.py
 
 ---
 
+
 ## 🛠️ Technologies Used
 
 - **Python 3**  

@@ -7,7 +7,7 @@ A fun and nostalgic **Snake Game** built with Python’s `turtle` library. Guide
 ## ✨ Features  
 - Smooth snake movement controlled by arrow keys  
 - Random food spawning and growth mechanics  
-- Dynamic scoreboard that updates in real time  
+- Dynamic scoreboard that updtes in real time  
 - Simple modular structure for easy customization  
 - Lightweight — only requires Python’s built-in `turtle` module  
 
